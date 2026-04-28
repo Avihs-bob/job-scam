@@ -1,21 +1,36 @@
-# 🔐 Social Engineering Job Scam Detection & Analysis
+# Social Engineering Job Scam Detection & Analysis
 
 ## 📌 Overview
-This project presents a real-world analysis of a suspected job scam involving a data entry task. The case was investigated using cybersecurity principles such as social engineering detection and behavioral analysis.
-
----
+This project analyzes a real-world job scam attempt using cybersecurity principles.
 
 ## 🎯 Objective
-To identify and document indicators of a job scam and demonstrate practical cybersecurity analysis skills.
+To identify and document indicators of social engineering attacks in job offers.
 
----
-
-## 🧠 Key Concepts Used
+## 🧠 Key Concepts
 - Social Engineering
-- Threat Analysis
-- OSINT (Open Source Intelligence)
-- Indicators of Compromise (IOCs)
-
----
+- Scam Detection
+- OSINT Verification
 
 ## 📂 Project Structure
+- evidence/ → Raw proof (masked)
+- analysis/ → Investigation notes
+- report/ → Final cybersecurity report
+
+## 🔍 Key Findings
+- Illogical workflow (Excel → Google Forms)
+- No verifiable company details
+- Informal communication channels
+
+## ⚠️ Risk Level
+High
+
+## 🛡️ Recommendations
+- Verify company identity
+- Avoid sharing sensitive information
+- Report suspicious activity
+
+## 📄 Report
+Detailed analysis is available in the report folder.
+
+## 👨‍💻 Author
+Gk Shiva Ganagadhat
